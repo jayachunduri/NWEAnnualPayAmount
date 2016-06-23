@@ -1,0 +1,10 @@
+C:\Users\hopdizzle\Documents\Jaya\Professional Guru Recordings\Code\NWEAnnualPayAmount\EmployeePayment\obj\Debug\EmployeePayment.csprojResolveAssemblyReference.cache
+C:\Users\hopdizzle\Documents\Jaya\Professional Guru Recordings\Code\NWEAnnualPayAmount\EmployeePayment\bin\Debug\EmployeePayment.dll
+C:\Users\hopdizzle\Documents\Jaya\Professional Guru Recordings\Code\NWEAnnualPayAmount\EmployeePayment\bin\Debug\EmployeePayment.pdb
+C:\Users\hopdizzle\Documents\Jaya\Professional Guru Recordings\Code\NWEAnnualPayAmount\EmployeePayment\obj\Debug\EmployeePayment.dll
+C:\Users\hopdizzle\Documents\Jaya\Professional Guru Recordings\Code\NWEAnnualPayAmount\EmployeePayment\obj\Debug\EmployeePayment.pdb
+C:\Users\hopdizzle\Documents\Jaya\ProfessionalGuru\Code\NWEAnnualPayAmount\EmployeePayment\bin\Debug\EmployeePayment.dll
+C:\Users\hopdizzle\Documents\Jaya\ProfessionalGuru\Code\NWEAnnualPayAmount\EmployeePayment\bin\Debug\EmployeePayment.pdb
+C:\Users\hopdizzle\Documents\Jaya\ProfessionalGuru\Code\NWEAnnualPayAmount\EmployeePayment\obj\Debug\EmployeePayment.csprojResolveAssemblyReference.cache
+C:\Users\hopdizzle\Documents\Jaya\ProfessionalGuru\Code\NWEAnnualPayAmount\EmployeePayment\obj\Debug\EmployeePayment.dll
+C:\Users\hopdizzle\Documents\Jaya\ProfessionalGuru\Code\NWEAnnualPayAmount\EmployeePayment\obj\Debug\EmployeePayment.pdb
